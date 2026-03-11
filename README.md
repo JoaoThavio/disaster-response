@@ -81,7 +81,7 @@ src/main/java/com/github/joao/disaster_response/
 
 ---
 
-## 🚀 Como rodar localmente
+## Como rodar localmente
 
 ### Pré-requisitos
 
@@ -188,5 +188,5 @@ Tentativas de transição inválida retornam `400 Bad Request` com mensagem expl
 
 Feito por **João Thavio** — dev apaixonado por construir coisas que importam.
 
-- 💼 [LinkedIn](https://linkedin.com/in/JoaoThavio)
+- 💼 [LinkedIn](www.linkedin.com/in/joao-othavio)
 - 🐙 [GitHub](https://github.com/JoaoThavio)
