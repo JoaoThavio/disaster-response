@@ -186,7 +186,5 @@ Tentativas de transição inválida retornam `400 Bad Request` com mensagem expl
 
 ##  Autor
 
-Feito por **João Thavio** — dev apaixonado por construir coisas que importam.
-
 - 💼 [LinkedIn](www.linkedin.com/in/joao-othavio)
 - 🐙 [GitHub](https://github.com/JoaoThavio)
